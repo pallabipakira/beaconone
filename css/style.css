@@ -3,7 +3,7 @@
 /* Font Family */
 @font-face {
   font-family: Sangblue;
-  src: url("../Assets/font/SangBleu\ Sunrise.ttf");
+  src: url("../assets/font/SangBleu\ Sunrise.ttf");
 }
 
 :root {
@@ -13,7 +13,7 @@
 }
 
 body {
-  font-family: Sangblue, sans-serif;
+  font-family:" Sangblue", sans-serif;
 }
 
 a {
